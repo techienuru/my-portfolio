@@ -88,19 +88,6 @@ With 3+ full-stack applications shipped — covering authentication, payments, f
 
 ---
 
-## Jobs Applied For This Conversation
-1. **B2BScale** — AI Automation Specialist — Received WhatsApp confirmation, filmed Loom video of issue tracker ($2,000/month target)
-2. **Winnov8** — Frontend Developer Volunteer
-3. **Tobams Group** — Frontend Developer Intern (passed assessment)
-4. **LocalBuka** — Frontend Engineer Intern
-5. **3MTT** — Automation Assistant
-6. **Develop for Good** — Software Developer Volunteer
-7. **Thels Impact Consulting** — Backend Developer Intern
-8. **Technergize Africa** — Frontend Development Intern + Backend Development Intern
-9. **Senior AI Automation Specialist (unnamed company)** — 5 years required, experience gap acknowledged
-10. **Cardtonic Upskill 4.0 Hackathon** — Software Engineering track (MacBook prize)
-
----
 
 ## Achievements & Milestones
 - Placed **3rd in Nasarawa State Virtual Hackathon** — built **JobBridge** (micro-task marketplace) with team as 3MTT Cohort 3 fellow
